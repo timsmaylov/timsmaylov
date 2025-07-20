@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- Profile README for Timur Ismaylov -->
+
+<h1 align="center">Hi there, I'm Timur Ismaylov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Researcher;Open+to+challenges+in+science+%26+tech!"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/timsmaylov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:timsaylov@icloud.com"><img src="https://img.shields.io/badge/Email-timsaylov%40icloud.com-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://t.me/timsaylov"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🧑‍🔬 Researcher with MSc in Photonics & experience in Data Science, ML, computational modeling
+- 🧠 Passionate about AI, 3D modeling, simulation, and science
+- 🛠️ Python, C/C++, Blender, COMSOL, Unity, Jupyter, PyCharm
+- 🌍 Languages: Uzbek (C2), Russian (C1), English (B1)
+- 📄 [My CV (PDF)](link_to_cv.pdf)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timsmaylov&show_icons=true&theme=tokyonight&hide=contribs,prs" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=timsmaylov&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=timsmaylov&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+## 🏆 Achievements & Publications
+
+- 2025: Diploma in Data Science (PROWEB)
+- 2023: VR Apps on Unity Engine (MEPhI)
+- 2025: "Leveraging Machine Learning For Big Data Analytics" (article)
+- 2024: "Neural Networks in Data Processing Systems"
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,blender,unity,github,vscode,jupyter,latex" />
+</p>
+
+---
+
+## 🌟 Fun Animations
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=timsmaylov&style=flat-square&color=00BFFF" alt="profile views"/>
+</p>
+
+---
+
+## 📬 Let's connect!
+
+- Email: timsaylov@icloud.com
+- LinkedIn: [timsmaylov](https://www.linkedin.com/in/timsmaylov/)
+- Telegram: [@timsaylov](https://t.me/timsaylov)
+
+---
 
 <!--
-**timsmaylov/timsmaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tip: Replace 'link_to_cv.pdf' with the actual link to your CV PDF in the repo or cloud.
+Add more custom widgets if you want!
 -->
