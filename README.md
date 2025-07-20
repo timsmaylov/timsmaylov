@@ -72,9 +72,9 @@
 
 ## 📬 Let's connect!
 
-- Email: timsaylov@icloud.com
+- Email: timsmaylov@icloud.com
 - LinkedIn: [timsmaylov](https://www.linkedin.com/in/timsmaylov/)
-- Telegram: [@timsaylov](https://t.me/timsaylov)
+- Telegram: [@timsmaylov](https://t.me/timsmaylov)
 
 ---
 
