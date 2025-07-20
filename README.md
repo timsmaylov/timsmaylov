@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Timur Ismaylov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer+%7C+Researcher;Open+to+challenges+in+science+%26+tech!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer+%7C+Researcher;Driven+by+Curiosity+%26+Innovation"/>
 </p>
 
 <p align="center">
@@ -36,9 +36,18 @@
 - 🏆 **Leadership:** Led student teams to success in research competitions and interdisciplinary projects.
 - 🌍 **Global Perspective:** Skilled at communicating complex ideas to diverse audiences.
 
-### 🛠️ Featured Skills
+## 📊 Professional Toolkit
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,blender,unity,comsol,jupyter,latex" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMSOL-005F87?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
 > "Data is the new science. Insight is the new currency."  
