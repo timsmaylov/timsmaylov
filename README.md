@@ -20,7 +20,7 @@
 - 🧠 Passionate about artificial intelligence, 3D modeling, scientific simulation, and tackling real-world challenges
 - 🛠️ Proficient in Python, C/C++, Blender, COMSOL, Unity, Jupyter, and PyCharm
 - 🌍 Languages: Karakalpak/Uzbek (native), Russian (fluent), English (B1)
-- 📄 [View my CV (PDF)](link_to_cv.pdf)
+- 📄 [View my CV (PDF)](Timur_CV.pdf)
 
 ---
 
