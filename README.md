@@ -24,16 +24,25 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Why Work With Me?
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timsmaylov&show_icons=true&theme=tokyonight&hide=contribs,prs" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=timsmaylov&theme=tokyonight" width="48%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Bridging+Science+%26+Technology;Delivering+Impact+Through+Innovation"/>
 </p>
 
+- 🔬 **Research-Driven:** I combine scientific rigor with practical solutions to solve real-world problems.
+- 🤝 **Interdisciplinary Mindset:** Experienced in collaborating across physics, engineering, and data science.
+- 🚀 **Innovative:** Passionate about leveraging AI and ML for impactful, creative, and scalable solutions.
+- 🏆 **Leadership:** Led student teams to success in research competitions and interdisciplinary projects.
+- 🌍 **Global Perspective:** Skilled at communicating complex ideas to diverse audiences.
+
+### 🛠️ Featured Skills
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=timsmaylov&theme=tokyo-night" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,blender,unity,comsol,jupyter,latex" />
 </p>
+
+> "Data is the new science. Insight is the new currency."  
+> <sub><i>—Timur Ismaylov</i></sub>
 
 ---
 
