@@ -19,7 +19,7 @@
 - 🧑‍🔬 Researcher with an MSc in Photonics and extensive experience in Data Science, Machine Learning, and Computational Modeling
 - 🧠 Passionate about artificial intelligence, 3D modeling, scientific simulation, and tackling real-world challenges
 - 🛠️ Proficient in Python, C/C++, Blender, COMSOL, Unity, Jupyter, and PyCharm
-- 🌍 Languages: Uzbek (native), Russian (fluent), English (intermediate)
+- 🌍 Languages: Karakalpak/Uzbek (native), Russian (fluent), English (B1)
 - 📄 [View my CV (PDF)](link_to_cv.pdf)
 
 ---
