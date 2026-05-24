@@ -281,8 +281,8 @@ NOW ─── 🔥 Fraud Detection AI · VR Lab v2 · Teaching ─────�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=timsmaylov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&show=reviews,discussions_started"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timsmaylov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&hide=html,css"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=timsmaylov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&show=reviews,discussions_started"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timsmaylov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&hide=html,css"/>
 </div>
 
 <div align="center">
